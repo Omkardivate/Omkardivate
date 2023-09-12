@@ -1,4 +1,5 @@
 <h6> Hi 👋, I'm Omkar Divate</h6>
+<h6> 🔭 I'm a Computer Engineer, interested in coding and emerging technologies</h6>
 
 <!--
 **Omkardivate/Omkardivate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
