@@ -1,8 +1,8 @@
 <ul>
-  <li>👋 Hi, I'm **Omkar Divate**</li>
+  <li>👋 Hi, I'm <b>Omkar Divate</b></li>
   <li>🎓 I'm a Computer Engineer, interested in coding and emerging technologies</li>
   <li>🔭 I'm currently pusuing PG-DAC from IET,pune</li>
-  <li>✨ Be positive because positivity is never a waste of energy</li>
+  <li>✨ Be positive, because positivity is never a waste of energy</li>
   <li>🖥️ Embrace challenges, stay curious, and keep coding!</li>
 </ul>
 
