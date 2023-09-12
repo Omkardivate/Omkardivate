@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Omkar Divate</h1>
 ### Hi there 👋
 
 <!--
