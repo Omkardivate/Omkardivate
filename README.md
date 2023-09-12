@@ -1,16 +1,12 @@
-<div style="line-height: 4.5;">
-      👋 Hi, I'm Omkar Divate<br>
-      🎓 I'm a Computer Engineer, interested in coding and emerging technologies<br>
-      🔭 I'm currently pursuing PG-DAC from IET, Pune<br>
-      ✨ Be positive because positivity is never a waste of energy<br>
-      🖥️ Embrace challenges, stay curious, and keep coding!<br>
-</div>
+<ul>
+  <li>👋 Hi, I'm **Omkar Divate**</li>
+  <li>🎓 I'm a Computer Engineer, interested in coding and emerging technologies</li>
+  <li>🔭 I'm currently pusuing PG-DAC from IET,pune</li>
+  <li>✨ Be positive because positivity is never a waste of energy</li>
+  <li>🖥️ Embrace challenges, stay curious, and keep coding!</li>
+</ul>
 
-##### 👋 Hi, I'm Omkar Divate
-##### 🎓 I'm a Computer Engineer, interested in coding and emerging technologies
-##### 🔭 I'm currently pusuing PG-DAC from IET,pune
-##### ✨ Be positive because positivity is never a waste of energy
-##### 🖥️ Embrace challenges, stay curious, and keep coding!
+
 
 
 
