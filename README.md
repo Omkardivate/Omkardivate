@@ -1,6 +1,6 @@
 - 👋 Hi, I'm <b>Omkar Divate</b>
 - 🎓 I'm a Computer Engineer, interested in coding and emerging technologies
-- 🔭 I'm currently pusuring PG-DAC from IET,pune
+- 🔭 I'm currently pursuing PG-DAC from IET,pune
 - ✨ Be positive, because positivity is never a waste of energy
 - 🖥️ Embrace challenges, stay curious, and keep coding!
 
