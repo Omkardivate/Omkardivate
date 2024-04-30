@@ -6,6 +6,10 @@
 
 
 <h2>Languages and Tools</h2> 
+<!-- html5 -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- css -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/> </a> &nbsp &nbsp 
 <!-- C -->
 <a href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  &nbsp &nbsp 
 <!-- C++ -->
@@ -14,12 +18,26 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="c#" width="40" height="40"/> </a>  &nbsp &nbsp 
 <!-- java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  &nbsp &nbsp 
+<!-- mysql -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <br> <br>
+<!-- bootstrap -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- spring -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="spring" width="40" height="40"/> </a> &nbsp &nbsp 
 <!-- dotnet -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="dotnet" width="40" height="40"/> </a>  &nbsp &nbsp 
 <!-- react -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/> </a>  &nbsp &nbsp 
-<!-- mysql -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- restapi -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="restapi" width="40" height="40"/> </a> &nbsp &nbsp
+<!-- postman -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- git -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- vscode -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- eclipse -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" width="40" height="40"/> </a> &nbsp &nbsp 
 
 
 <h2 align="left">Connect with me:</h2>
