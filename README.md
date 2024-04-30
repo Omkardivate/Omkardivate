@@ -10,6 +10,8 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> </a> &nbsp &nbsp 
 <!-- css -->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/> </a> &nbsp &nbsp 
+<!-- bootstrap -->
+<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/> </a> &nbsp &nbsp 
 <!-- C -->
 <a href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  &nbsp &nbsp 
 <!-- C++ -->
@@ -20,8 +22,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  &nbsp &nbsp 
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <br> <br>
-<!-- bootstrap -->
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/> </a> &nbsp &nbsp 
 <!-- spring -->
 <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="spring" width="40" height="40"/> </a> &nbsp &nbsp 
 <!-- dotnet -->
